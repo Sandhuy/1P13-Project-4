@@ -1,9 +1,9 @@
 # 1P13-Project-4 Power in Community
-**Auxilium**
+##Auxilium##
 
 This design project focused on designing a real-world solution to a local Hamilton resident Alannah, who suffers from multiple health issues. Our group's design was to create a toy sucking robot that would go around her home and collect her childrens toys. It then extends to Alannah's range to be comfortability emptied. We designed a fully functional CAD model using Inventor and a possible GUI for a phone app she could use to deploy the robot.
 
-**Project Video**
+##Project Video##
 
 
 https://user-images.githubusercontent.com/90667859/213895365-330ef190-47e2-4968-ac29-fe5fe5cbea85.mp4
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/90667859/213895365-330ef190-47e2-4968-
 
 
 
-**360 View of the device**
+##360 View of the device##
 
 
 
