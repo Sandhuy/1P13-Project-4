@@ -12,7 +12,8 @@ https://user-images.githubusercontent.com/90667859/213895365-330ef190-47e2-4968-
 ## Extension Feature ##
 
 
-![ezgif-1-71bddd4851](https://user-images.githubusercontent.com/90667859/213902726-6bd4a2ae-61cc-4f8e-bdff-f40ea1331e26.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/90667859/213939025-b866c791-d00c-4cdc-a8a4-eac1caf7fb1c.gif)
+
 
 
 
@@ -20,4 +21,5 @@ https://user-images.githubusercontent.com/90667859/213895365-330ef190-47e2-4968-
 
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90667859/213902775-4ea1796a-435a-4017-a45e-7b508c52ac2f.gif)
+![ezgif-5-9586ff2b67](https://user-images.githubusercontent.com/90667859/213938977-b005d410-3b0d-434e-8693-a311c5e97691.gif)
+
